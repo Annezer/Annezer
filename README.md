@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Annezer/Annezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Timothée Annezer — Applied Data Science in Healthcare
 
-Here are some ideas to get you started:
+MSc student (M2) in *Biomarkers & AI* at Aix-Marseille Université.  
+BSc in Cellular Biology & Physiology with a Neuroscience specialization (Université de Toulouse).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- Ai and Health
+- Biomarker discovery/validation
+- Reproducible research (data, code, results)
+
+## Core skills
+- Python (pandas, NumPy, scikit-learn), Jupyter Notebooks
+- Methods: Clustering, classification, cross-validation, feature selection
+
+
+## Recent project
+- **Multimodal classification of ALS patients** — M1 internship, Institut de Neuroscience de la Timone  
+  *Built ML pipelines to integrate IRM data. Role: modeling, evaluation.*  
+  
+
+## Contact
+- Email: annezertimothee@gmail.com
+- LinkedIn: [Timothée Annezer] www.linkedin.com/in/timothée-annezer-543834276
